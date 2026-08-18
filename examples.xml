@@ -1,0 +1,114 @@
+<!-- TMDb Movie -->
+<item>
+    <title>Obsession</title>
+    <content>movie</content>
+    <tmdb>movie/1339713</tmdb>
+</item>
+
+<!-- TMDb Movie with Artwork-->
+<item>
+    <title>Obsession</title>
+    <content>movie</content>
+    <tmdb>movie/1339713</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg</fanart>
+</item>
+
+<!-- TMDb Movie with Artwork and Summary-->
+<item>
+    <title>Obsession</title>
+    <content>movie</content>
+    <tmdb>movie/1339713</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg</fanart>
+	<summary>After breaking the mysterious "One Wish Willow" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.</summary>
+</item>
+
+<!-- TMDb TV Show -->
+
+  <dir>
+    <title>Arthur</title>
+    <content>tvshow</content>
+    <tmdb>tv/2153</tmdb>
+  </dir>
+
+ <!-- Trakt Movie -->
+ 
+
+  <item>
+    <title>The Matrix</title>
+    <content>movie</content>
+    <year>1999</year>
+    <imdb_id>tt0133093</imdb_id>
+    <tmdb_id>603</tmdb_id>
+    <link>search</link>
+  </item>
+
+
+<!-- Trakt TV Show Series -->
+
+
+  <dir>
+    <title>Game of Thrones</title>
+    <content>tv</content>
+    <link>trakt/seasons/1390::1399::Game of Thrones::2011::tt0944947</link>
+  </dir>
+
+
+<!-- TMDb Collection -->
+  <dir>
+    <title>Toy Story Collection</title>
+    <content>movie</content>
+    <link>tmdb/collection/10194</link>
+  </dir>
+
+  <!-- TMDb List -->
+  <dir>
+    <title>TMDb Custom List</title>
+    <link>tmdb/list/12345</link>
+  </dir>
+
+  <!-- Trakt User Movie Collection -->
+  <dir>
+    <title>My Trakt Movie Collection</title>
+    <link>trakt/user/self/collection/movies</link>
+  </dir>
+
+  <!-- Trakt User TV Collection -->
+  <dir>
+    <title>My Trakt TV Collection</title>
+    <link>trakt/user/self/collection/shows</link>
+  </dir>
+
+  <!-- Trakt Public User List -->
+  <dir>
+    <title>Trakt User List</title>
+    <link>trakt/user/USERNAME/list/LIST-SLUG</link>
+  </dir>
+
+  <!-- Trakt List By ID -->
+  <dir>
+    <title>Trakt List By ID</title>
+    <link>trakt/list/12345678</link>
+  </dir>
+
+<!-- IMDb Movie -->
+  <item>
+    <title>The Matrix</title>
+    <content>movie</content>
+    <year>1999</year>
+    <imdb_id>tt0133093</imdb_id>
+    <link>search</link>
+  </item>
+
+  <!-- IMDb TV Episode -->
+  <item>
+    <title>Winter Is Coming</title>
+    <content>episode</content>
+    <tv_show_title>Game of Thrones</tv_show_title>
+    <season>1</season>
+    <episode>1</episode>
+    <year>2011</year>
+    <imdb_id>tt0944947</imdb_id>
+    <link>search</link>
+  </item>  
